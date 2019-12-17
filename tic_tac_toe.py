@@ -132,6 +132,9 @@ class TicTacToe:
             quit()
         if not self.win == True:
             print("You have lost.")
+    def check_spaces(self):
+
+
 
 
 
